@@ -10,9 +10,10 @@ The number of hidden layers was decided through different trials and it was deci
 The SparseCategoricalCrossEntropy activation function was used along with the adam optimizer function for training the model and getting accuracies. 
 
 ## Accuracies over folds
+
 | Accuracy over five folds | 0.99 | 0.96 | 0.99 | 0.99 | 0.99 |
-| ------------------------ | :-----------: |
-| Average Accuracy         | 0.98 |
+|--------------------------|------|------|------|------|------|
+| Average Accuracy         | 0.98 |      |      |      |      |
 
 
 ## Learning Curves
